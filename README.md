@@ -6,10 +6,10 @@
 Hello there! I'm Nilton Sousa, I'm a software engineer and all days I study to be between the best developers. 
 
 If I will describe about my stacks i'll to talk about: 
- -⚡ Developing Web Applications with Angular JS.
- -⚡ Developing Web Applications with Vue JS.
- -⚡ Developing Micro Services with Node JS.
- -⚡ Developing Micro Services with .NET Core.
+ -⚡ Developing Web Applications with Angular JS
+ -⚡ Developing Web Applications with Vue JS
+ -⚡ Developing Micro Services with Node JS
+ -⚡ Developing Micro Services with .NET Core
 
 
 ## Frontend & Design
