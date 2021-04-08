@@ -1,6 +1,6 @@
 # Nilton Sousa
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nykollemalone/)](https://www.linkedin.com/in/NiltonSousa/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nykollemalone/)](https://www.linkedin.com/in/nilton-sousa/)
 
 ## Hello there 👋, 
 I'm Nilton Sousa, I'm a software engineer and all days I study to be between the best developers. 
