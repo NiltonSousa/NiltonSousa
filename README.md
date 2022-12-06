@@ -7,8 +7,7 @@ I'm Nilton Sousa, I'm a software engineer and all days I study to be between the
 
 If I will describe about my stacks i'll to talk about: 
 <!--ts-->
- * ⚡ Developing Web Applications with React Js
- * ⚡ Developing Micro Services with Node JS
+ * ⚡ Developing with NodeJs
 
 
 ## Frontend & Design
